@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1010923117007",
+    "firebase_url": "https://gerenciamento-tarefas-44fd6-default-rtdb.firebaseio.com",
+    "project_id": "gerenciamento-tarefas-44fd6",
+    "storage_bucket": "gerenciamento-tarefas-44fd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010923117007:android:225de694860c43061f9aba",
+        "android_client_info": {
+          "package_name": "com.example.gerenciamento_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6C1M5WvyTeDeHIwrr_ev_OCfRe0glAtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
